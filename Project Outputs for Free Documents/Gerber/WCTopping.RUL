@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\Users\igor.paranhos\Downloads\Arquivo CAP 23 - Arquivos de saída\WCTopping.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=AndersonConnector|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=PowerNets|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=12V_Clearance|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=2.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=10.00

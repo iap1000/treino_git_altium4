@@ -1,0 +1,61 @@
+Change Component Footprint: Designator=D1 Old Footprint=0603_A New Footprint=0603_A
+Change Component Footprint: Designator=D2 Old Footprint=0603_A New Footprint=0603_A
+Change Component Footprint: Designator=Q1 Old Footprint=ONSC-CHIPFET-8-1206A-03_S2_V New Footprint=ONSC-CHIPFET-8-1206A-03_S2_V
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Codigo"; Value = "002.05.107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.yageo.com/en/Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Empresa"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GEOMETRY"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Name"; Value = "P_R0603_10K/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "Codigo"; Value = "002.05.107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.yageo.com/en/Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Empresa"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GEOMETRY"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Name"; Value = "P_R0603_10K/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Codigo"; Value = "002.05.107"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.yageo.com/en/Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Empresa"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GEOMETRY"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Name"; Value = "P_R0603_10K/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3bd Pin=R1-2
+Added Pin To Net: NetName=CAN_RXD Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=NetCrst1_2 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=UC1-17
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=UC2-4
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=CAN_Interface Member=Component R1 10K/1% - 0.1W
+Added Member To Class: ClassName=CAN_Interface Member=Component R3 10K/1% - 0.1W
+Added Member To Class: ClassName=Digital_IO Member=Component R4 10K/1% - 0.1W
