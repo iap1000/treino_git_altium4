@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=PowerNets Member=NetD1_1
+Removed Member From Class: ClassName=PowerNets Member=NetD2_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Class Name : Old Net Name=PowerNets New Net Name=Fonte
+Added Class: Name=PowerNets
