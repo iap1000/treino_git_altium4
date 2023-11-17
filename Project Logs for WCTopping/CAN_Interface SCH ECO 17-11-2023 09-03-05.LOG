@@ -1,0 +1,6 @@
+Replace Part P1 Header 2 in C:\Users\igor.paranhos\Documents\Igor\Altium Designer\Training\SKA\Curso básico\Treino_git_Altium4\CAN_Interface.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Part R1 Resistor in C:\Users\igor.paranhos\Documents\Igor\Altium Designer\Training\SKA\Curso básico\Treino_git_Altium4\CAN_Interface.SchDoc with Resistor from EDS_Hardware_gitLIB_Perto.DbLib
+Replace Part R3 Resistor in C:\Users\igor.paranhos\Documents\Igor\Altium Designer\Training\SKA\Curso básico\Treino_git_Altium4\CAN_Interface.SchDoc with Resistor from EDS_Hardware_gitLIB_Perto.DbLib
+Update Managed Component UC1 From CMP-0186-00035-2[MCP2515-E/SO] To CMP-0186-00035-2[MCP2515-E/SO] in CAN_Interface.SchDoc
+Update Managed Component UC2 From CMP-0186-00038-2[MCP2551-E/SN] To CMP-0186-00038-2[MCP2551-E/SN] in CAN_Interface.SchDoc
+Update Managed Component X1 From CMP-0464-00001-2[21C00047-16.000MHz] To CMP-0464-00001-2[21C00047-16.000MHz] in CAN_Interface.SchDoc

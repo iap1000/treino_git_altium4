@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Fonte Member=3V3bd
+Added Pin To Net: NetName=3V3bd Pin=C6-2
+Added Pin To Net: NetName=3V3bd Pin=J4-1
+Added Pin To Net: NetName=3V3bd Pin=J4-17
+Change Net Name : Old Net Name=3V3bd New Net Name=3V3
+Added Member To Class: ClassName=Relay_IO Member=Component D2 LED Red
+Added Member To Class: ClassName=Relay_IO Member=Component RL2 1K 0805
+Added Member To Class: ClassName=Fonte Member=Wire 3V3
