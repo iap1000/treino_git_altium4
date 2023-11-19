@@ -1,0 +1,69 @@
+Altium Designer Pick and Place Locations
+C:\Users\iap10\Documents\Igor Asus X515J\Treino Altium\Treino_git_altium4\Project Outputs for Free Documents\Pick Place\Pick Place for My_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/11/23
+Time:       18:27
+Revision:   641abf308d5f1a31fbc6306eef19319bb1ca614e
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer       Footprint                    Center-X(mil) Center-Y(mil) Rotation Description                                                                                                
+RL2        "1K 0805"                   BottomLayer 0805_L                       3025.591      2685.039      180      ""                                                                                                         
+D2         "LED Red"                   BottomLayer 0603_A                       3023.623      2759.843      0        "SMD mono-color Chip LED, WL-SMCW, Red"                                                                    
+R4         "10K/1% - 0.1W"             BottomLayer R0603                        3019.684      2173.227      0        "Resistor 10K ±1% 0.1W 0603"                                                                               
+R3         "10K/1% - 0.1W"             BottomLayer R0603                        2456.693      792.772       90       "Resistor 10K ±1% 0.1W 0603"                                                                               
+R1         "10K/1% - 0.1W"             BottomLayer R0603                        2370.079      829.276       270      "Resistor 10K ±1% 0.1W 0603"                                                                               
+X1         21C00047-16.000MHz          BottomLayer ITTI-21C00047-16.000MHz-4_V  1720.472      1216.535      270      "Crystal, 16 MHz, -30 to 85 degC, 3.2 x 2.5 x 0.9 mm SMD"                                                  
+UI1        MCP23S17T-E/SO              BottomLayer SOIC-SO28_L                  2881.890      1744.094      0        "16-Bit I/O Expander with Serial Interface, 28-Pin SOIC, Extended Temperature, Tape and Reel"              
+UC2        MCP2551-E/SN                BottomLayer SOIC-SN8_N                   2484.252      1027.559      0        "High-Speed CAN Transceiver, 8-Pin SOIC, Extended Temperature"                                             
+UC1        MCP2515-E/SO                BottomLayer SOIC-SO18_M                  2066.929      1082.677      0        "Stand-Alone CAN Controller With SPI Interface, 18-Pin SOIC, Extended Temperature"                         
+U1         CD40109BPW                  BottomLayer PW0016A_M                    2814.962      2440.945      270      "CMOS Quad Low-to-High Voltage Level Shifter, 3 to 18 V, -55 to 125 degC, 16-Pin TSSOP (PW16), RoHS, Tube" 
+RT1        22K                         BottomLayer 0603_L                       2925.197      1007.874      180      ""                                                                                                         
+RLY2_Rtn   "Anderson-1Pin BLK_PCB_RHT" TopLayer    Anderson_BLK_RHT_BOT         2070.118      1863.488      180      "1 pin Anderson"                                                                                           
+RLY2_+     "Anderson-1Pin RED_PCB_RHT" TopLayer    Anderson_Red_RHT_BOT         2070.118      1023.709      180      "1 pin Anderson"                                                                                           
+RLY1_Rtn   "Anderson-1Pin BLK_PCB_RHT" TopLayer    Anderson_BLK_RHT_BOT         2070.118      1443.599      180      "1 pin Anderson"                                                                                           
+RLY1_+     "Anderson-1Pin RED_PCB_RHT" TopLayer    Anderson_Red_RHT_BOT         2070.118      603.819       180      "1 pin Anderson"                                                                                           
+RL1        "1K 0805"                   BottomLayer 0805_L                       2645.669      2423.228      270      ""                                                                                                         
+Reg5       LM1084IS-5.0/NOPB           BottomLayer KTT0003B_L                   1960.630      2407.480      90       "5A Low Dropout Positive Regulators, 3-pin TO-263, Pb-Free"                                                
+Reg3       3.3V                        BottomLayer DCY0004A_M                   1940.945      1610.236      270      "1A Low Dropout Regulator for 5V to 3.3V Conversion, 4-pin SOT-223, Pb-Free"                               
+RCL1       100                         BottomLayer 0603_L                       2929.136      937.008       0        ""                                                                                                         
+RCH1       100                         BottomLayer 0603_L                       2925.196      1098.425      180      ""                                                                                                         
+RCAN1      4.7K                        BottomLayer 0603_L                       2763.780      1023.622      180      ""                                                                                                         
+R2         22K                         BottomLayer 0603_L                       2263.780      696.850       180      ""                                                                                                         
+Q1         NTHD4508NT1                 BottomLayer ONSC-CHIPFET-8-1206A-03_S2_V 2790.787      2725.098      180      "Power MOSFET, 20 V, 4.1 A, Dual N-Channel, 8-Pin CHIPFET, Tape and Reel"                                  
+PWRP+      RED_PCB_RHT                 TopLayer    Anderson_Red_RHT_BOT         2070.118      2703.268      180      "1 pin Anderson"                                                                                           
+PWRN-      BLK_PCB_RHT                 TopLayer    Anderson_BLK_RHT_BOT         2070.118      2283.378      180      "1 pin Anderson"                                                                                           
+P1         "Header 2"                  BottomLayer HDR1X2                       3082.677      1065.748      270      "Header, 2-Pin"                                                                                            
+J4         "Header 20X2"               TopLayer    HDR2X20                      1290.158      1054.724      90       "Header, 20-Pin, Dual row"                                                                                 
+J3         "Header 4"                  TopLayer    HDR1X4                       1631.102      110.236       180      "Header, 4-Pin"                                                                                            
+J2         "Header 3"                  TopLayer    HDR1X3                       2098.425      354.331       180      "Header, 3-Pin"                                                                                            
+J1         "Header 4"                  TopLayer    HDR1X4                       2087.795      106.299       180      "Header, 4-Pin"                                                                                            
+IOS2       "Header 8"                  TopLayer    HDR1X8                       3295.000      1365.000      90       "Header, 8-Pin"                                                                                            
+IOS1       "Header 8"                  TopLayer    HDR1X8                       3290.000      2265.000      270      "Header, 8-Pin"                                                                                            
+IOP_2      "Header 8"                  TopLayer    HDR1X8                       3362.205      457.087       90       "Header, 8-Pin"                                                                                            
+IOP_1      "Header 8"                  TopLayer    HDR1X8                       3224.409      457.874       90       "Header, 8-Pin"                                                                                            
+IOG_2      "Header 8"                  TopLayer    HDR1X8                       2729.528      248.031       180      "Header, 8-Pin"                                                                                            
+IOG_1      "Header 8"                  TopLayer    HDR1X8                       2730.000      105.000       180      "Header, 8-Pin"                                                                                            
+""         "100V 1A Fast Diode"        BottomLayer SOT23                        2775.591      1141.732      0        "High Conductance Fast Diode"                                                                              
+DI2        "100V 1A Fast Diode"        BottomLayer DO-35                        2496.063      2708.661      180      "High Conductance Fast Diode"                                                                              
+DI1        "100V 1A Fast Diode"        BottomLayer DO-35                        2476.378      2307.087      0        "High Conductance Fast Diode"                                                                              
+D1         "LED Red"                   BottomLayer 0603_A                       2641.732      2559.055      270      "SMD mono-color Chip LED, WL-SMCW, Red"                                                                    
+Crst1      "100nF 50V"                 BottomLayer 0603C_L                      3153.543      1944.882      270      ""                                                                                                         
+CO2        22pF                        BottomLayer 0603C_L                      1724.409      1354.331      180      ""                                                                                                         
+CO1        22pF                        BottomLayer 0603C_L                      1724.409      1086.614      180      ""                                                                                                         
+CL1        "560pF 25V 0603"            BottomLayer 0603C_L                      2818.898      937.008       0        ""                                                                                                         
+CH1        "560pF 25V 0603"            BottomLayer 0603C_L                      2925.197      1165.354      180      ""                                                                                                         
+C51        0.1uF                       BottomLayer 0603C_L                      1748.032      972.442       270      ""                                                                                                         
+C33        0.1uF                       BottomLayer 0603C_L                      2370.079      677.166       90       ""                                                                                                         
+C9         "100nF 50V"                 BottomLayer 0603C_L                      1913.386      1830.709      180      ""                                                                                                         
+C8         10uF                        BottomLayer AVX-CAPC3528_V               2098.425      1944.882      90       "Capacitor, Tantalum, 10uF 10% 20V MCCT-B (3528)"                                                          
+C7         33uF                        BottomLayer AVX-CAPC3528_V               2275.591      1944.882      90       "Capacitor, Tantalum, 10uF 10% 20V MCCT-B (3528)"                                                          
+C6         "100nF 50V"                 BottomLayer 0603C_L                      1716.535      870.079       180      ""                                                                                                         
+C5         "100nF 50V"                 BottomLayer 0603C_L                      1688.976      972.441       270      ""                                                                                                         
+C4         10µF                        BottomLayer CAPC2013X135X45ML10T25       1915.355      2027.559      180      ""                                                                                                         
+C3         10µF                        BottomLayer CAPC2013X135X45ML10T25       1915.354      1948.819      180      ""                                                                                                         
+C2         "100nF 50V"                 BottomLayer 0603C_L                      3019.685      2244.095      180      ""                                                                                                         
+C1         "100nF 50V"                 BottomLayer 0603C_L                      3019.686      2314.961      180      ""                                                                                                         

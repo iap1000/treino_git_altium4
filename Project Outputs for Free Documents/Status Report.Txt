@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 12:29:10 On 19/10/2023
-
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [WCTopping.PcbDoc]
-   Generated File[Pick Place for WCTopping.txt]
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of PCB Document [My_PCB.PcbDoc]
+   Generated File[Assembly Testpoint Report for My_PCB.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:29:16 On 19/10/2023
+Finished Output Generation At 18:27:40 On 19/11/2023
